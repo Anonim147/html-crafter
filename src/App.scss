@@ -1,0 +1,14 @@
+.App {
+    margin: 0 auto;
+    width: 800px;
+}
+
+.Draggable :hover
+{
+    cursor: grab !important;
+}
+
+.Draggable :active
+{
+    cursor: grabbing !important;
+}
